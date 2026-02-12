@@ -1,0 +1,347 @@
+{
+  "category": "CONSPIRACY_THEORY",
+
+  "meta": {
+    "version": "1.0.0",
+    "schema_version": "1.0.0",
+    "last_updated": "2026-01-14",
+    "repository": "https://github.com/wyrdness/black-knight-satellite",
+    "maintainers": [
+      {
+        "name": "Wyrdness Team",
+        "github": "wyrdness",
+        "role": "maintainer"
+      }
+    ],
+    "license": {
+      "data": "CC0-1.0",
+      "content": "CC-BY-4.0"
+    }
+  },
+
+  "phenomenon": {
+    "id": "black-knight-satellite",
+    "name": "Black Knight Satellite",
+    "aliases": [
+      {
+        "name": "The Black Knight",
+        "meaning": "Shortened form"
+      },
+      {
+        "name": "13,000-Year-Old Satellite",
+        "meaning": "Referring to alleged age"
+      }
+    ],
+    "category": "CONSPIRACY_THEORY",
+    "subcategory": "UFO/UAP",
+    "tags": [
+      "satellite",
+      "ancient-aliens",
+      "space",
+      "debunked",
+      "misidentification"
+    ],
+    "status": "debunked",
+    "description": {
+      "summary": "Alleged 13,000-year-old alien satellite orbiting Earth. Actually a conflation of several separate, unrelated events and misidentified space debris photographed in 1998.",
+      "full": "The Black Knight Satellite is an alleged 13,000-year-old extraterrestrial satellite in polar orbit around Earth. The conspiracy theory is actually a combination of several completely separate and unrelated stories, events, and objects conflated over time: Nikola Tesla's 1899 radio signals (natural radio sources), 1954 UFO magazine articles (misreporting before Sputnik), 1960 detection of a dark object (US Air Force satellite debris), 1973 interpretation of 1920s radio echoes (later retracted), and most famously, a 1998 Space Shuttle photograph of space debris (thermal blanket). NASA has confirmed the 1998 photo shows a thermal blanket lost during a spacewalk. The 'Black Knight' is not a single object but a collection of misidentifications and misinterpretations."
+    },
+    "etymology": {
+      "origin": "Name 'Black Knight' origin unclear, possibly from 1960s UFO literature",
+      "meaning": "Dark, mysterious object of unknown origin",
+      "first_use": "Exact origin of name uncertain, popularized in 1990s-2000s internet era"
+    }
+  },
+
+  "classification": {
+    "taxonomy": {
+      "category": "CONSPIRACY_THEORY",
+      "type": "UFO/UAP",
+      "subtype": "Ancient alien artifact",
+      "variant": "Conflation of unrelated events"
+    },
+    "related_phenomena": [
+      {
+        "id": "ancient-aliens",
+        "name": "Ancient Aliens",
+        "relationship": "related_theory",
+        "description": "Black Knight cited as evidence of ancient extraterrestrial visitation"
+      },
+      {
+        "id": "space-debris",
+        "name": "Space Debris",
+        "relationship": "actual_explanation",
+        "description": "1998 photo shows thermal blanket space debris"
+      }
+    ]
+  },
+
+  "characteristics": {
+    "alleged_properties": {
+      "age": "13,000 years (claimed, unfounded)",
+      "orbit": "Polar orbit (claimed)",
+      "origin": "Extraterrestrial (claimed)",
+      "function": "Monitoring probe or communication relay (speculated)",
+      "composition": "Unknown alien materials (claimed)"
+    },
+    "reality": {
+      "existence": "Does not exist as described",
+      "famous_photo": "1998 STS-88 image of thermal blanket debris",
+      "nasa_identification": "Lost thermal blanket from Space Shuttle mission",
+      "other_elements": "Collection of unrelated historical events misinterpreted"
+    }
+  },
+
+  "history": {
+    "origins": {
+      "genesis": "The 'Black Knight' story is a conflation of multiple separate, unrelated events spanning from 1899 to 1998, combined by conspiracy theorists into a single narrative",
+      "key_components": [
+        "Nikola Tesla's 1899 radio signals",
+        "1954 UFO magazine articles",
+        "1960 dark object detection",
+        "1973 interpretation of 1920s radio echoes",
+        "1998 Space Shuttle photograph"
+      ]
+    },
+    "timeline": [
+      {
+        "date": "1899",
+        "event": "Nikola Tesla detects radio signals",
+        "description": "Tesla reported detecting unusual radio signals, speculated about Mars",
+        "reality": "Natural radio emissions from space (pulsars, etc.), not understood at the time",
+        "source": "Tesla's writings",
+        "connection_to_black_knight": "Later incorporated into Black Knight mythology"
+      },
+      {
+        "date": "1954-05-14",
+        "event": "UFO magazine articles about 'satellites'",
+        "description": "Articles claimed US had detected two satellites orbiting Earth (before Sputnik)",
+        "reality": "Misreporting or speculation, no actual satellites existed yet",
+        "source": "St. Louis Post Dispatch, Aviation Week",
+        "connection_to_black_knight": "Retroactively claimed as Black Knight detection"
+      },
+      {
+        "date": "1960-02",
+        "event": "Dark object detected in orbit",
+        "description": "US detected dark satellite in unusual orbit, generated newspaper coverage",
+        "reality": "Debris from US Air Force Discoverer satellite program",
+        "source": "TIME Magazine (March 7, 1960)",
+        "connection_to_black_knight": "Misidentified as mysterious alien satellite"
+      },
+      {
+        "date": "1973",
+        "event": "Duncan Lunan interprets 1920s radio echoes",
+        "description": "Researcher claimed 1920s Long Delayed Echoes were alien message from Epsilon Boötis",
+        "reality": "Lunan later withdrew his interpretation as speculative and unfounded",
+        "source": "Spaceflight magazine (April 1973)",
+        "connection_to_black_knight": "Sometimes linked to Black Knight mythology"
+      },
+      {
+        "date": "1998-12",
+        "event": "STS-88 Space Shuttle mission photographs object",
+        "description": "Space Shuttle Endeavour crew photographed dark object near shuttle",
+        "reality": "Thermal blanket lost during spacewalk, officially identified by NASA",
+        "source": "NASA mission STS-88 photographs",
+        "connection_to_black_knight": "Most famous 'Black Knight' photo, definitely identified as debris"
+      },
+      {
+        "date": "1990s-2000s",
+        "event": "Internet era conflation",
+        "description": "Conspiracy theorists combine all separate events into single 'Black Knight' narrative",
+        "reality": "No connection between the separate historical events",
+        "source": "Various conspiracy websites and forums"
+      }
+    ]
+  },
+
+  "evidence": {
+    "famous_photograph": {
+      "date": "1998-12-11",
+      "mission": "STS-88 Space Shuttle Endeavour",
+      "description": "Photos show dark object in space near shuttle",
+      "nasa_identification": "Thermal blanket lost during EVA (extravehicular activity)",
+      "proof": [
+        "NASA mission logs document blanket loss",
+        "Object's trajectory consistent with debris",
+        "No anomalous characteristics",
+        "Size and shape match thermal blanket"
+      ],
+      "image_ids": [
+        "STS088-724-66",
+        "STS088-724-70",
+        "STS088-724-88"
+      ],
+      "status": "Definitively identified as space debris"
+    },
+    "other_claimed_evidence": [
+      {
+        "type": "Tesla signals",
+        "date": "1899",
+        "reality": "Natural radio sources, not artificial signals",
+        "status": "Explained"
+      },
+      {
+        "type": "1954 satellite reports",
+        "date": "1954",
+        "reality": "Misreporting, no satellites existed yet (Sputnik was 1957)",
+        "status": "Debunked"
+      },
+      {
+        "type": "1960 dark object",
+        "date": "1960",
+        "reality": "US Discoverer satellite debris",
+        "status": "Identified"
+      },
+      {
+        "type": "1920s radio echoes",
+        "date": "1920s (analyzed 1973)",
+        "reality": "Duncan Lunan later retracted interpretation",
+        "status": "Retracted"
+      }
+    ],
+    "actual_evidence": {
+      "for_black_knight": "None - all components explained or debunked",
+      "for_space_debris": "NASA documentation, mission logs, photographic analysis"
+    }
+  },
+
+  "theories": {
+    "conspiracy": [
+      {
+        "name": "Ancient alien probe",
+        "description": "13,000-year-old extraterrestrial monitoring satellite",
+        "proponents": ["Ancient alien theorists", "Various conspiracy theorists"],
+        "evidence_cited": ["Conflated historical events", "1998 photo", "Tesla signals"]
+      },
+      {
+        "name": "Government cover-up",
+        "description": "Governments know about alien satellite but hide information",
+        "proponents": ["UFO conspiracy theorists"],
+        "evidence_cited": ["Official identification as debris claimed to be cover story"]
+      }
+    ],
+    "rational": [
+      {
+        "name": "Conflation of unrelated events",
+        "description": "Multiple separate incidents incorrectly combined into single narrative",
+        "proponents": ["Skeptics", "Historians", "Astronomers"],
+        "evidence_cited": ["No connection between events", "Each event has separate explanation", "Timeline doesn't support single object"]
+      },
+      {
+        "name": "Misidentified space debris",
+        "description": "1998 photos show ordinary space debris, other incidents explained separately",
+        "proponents": ["NASA", "Space experts", "Skeptical researchers"],
+        "evidence_cited": ["NASA mission documentation", "Thermal blanket loss logged", "Debris trajectory analysis"]
+      }
+    ]
+  },
+
+  "debunking": {
+    "1998_photograph": {
+      "claim": "Shows ancient alien satellite",
+      "reality": "Thermal blanket from STS-88 mission",
+      "proof": [
+        {
+          "evidence": "Mission logs",
+          "details": "EVA crew documented losing thermal blanket during spacewalk"
+        },
+        {
+          "evidence": "Object characteristics",
+          "details": "Size, shape, and material consistent with thermal blanket"
+        },
+        {
+          "evidence": "Trajectory",
+          "details": "Orbital path consistent with recently jettisoned debris, not ancient satellite"
+        },
+        {
+          "evidence": "Multiple photos",
+          "details": "Sequence shows blanket tumbling, consistent with light debris"
+        }
+      ],
+      "status": "DEFINITIVELY DEBUNKED"
+    },
+    "13000_year_age": {
+      "claim": "Satellite is 13,000 years old",
+      "origin": "No credible source, appears to be internet fabrication",
+      "reality": "No evidence for age claim, no dating performed, no ancient satellite exists",
+      "status": "UNFOUNDED"
+    },
+    "polar_orbit": {
+      "claim": "Unusual polar orbit suggests non-human origin",
+      "reality": "Many satellites have polar orbits, not unusual. 1998 debris not in polar orbit.",
+      "status": "MISLEADING"
+    },
+    "conflation_problem": {
+      "issue": "All separate events presented as single 'Black Knight' object",
+      "reality": [
+        "1899 Tesla signals: Natural radio sources",
+        "1954 reports: Pre-Sputnik misreporting",
+        "1960 object: Discoverer satellite debris",
+        "1973 echoes: Retracted interpretation",
+        "1998 photo: Thermal blanket"
+      ],
+      "conclusion": "No single 'Black Knight' satellite, just collection of unrelated misidentifications"
+    }
+  },
+
+  "cultural": {
+    "internet_propagation": {
+      "spread": "Conspiracy theory gained traction in 1990s-2000s internet era",
+      "amplification": "Social media, YouTube videos, conspiracy websites",
+      "image_virality": "1998 NASA photo widely shared with false context"
+    },
+    "popular_culture": {
+      "references": [
+        "Mentioned in ancient alien documentaries",
+        "Featured in conspiracy theory books",
+        "YouTube investigation videos",
+        "Internet memes and discussions"
+      ]
+    },
+    "persistence": "Despite thorough debunking, story persists due to viral image and appeal of ancient alien narrative"
+  },
+
+  "current_status": {
+    "evidence_level": "None - thoroughly debunked",
+    "scientific_consensus": "Does not exist; collection of misidentifications",
+    "nasa_position": "1998 photo identified as thermal blanket debris",
+    "researcher_consensus": "Debunked conspiracy theory based on conflation",
+    "public_awareness": "Many still believe due to viral photos and videos"
+  },
+
+  "sources": [
+    {
+      "id": "nasa-sts88",
+      "type": "official_documentation",
+      "title": "STS-88 Mission Documentation and Photographs",
+      "source": "NASA",
+      "date": "1998",
+      "url": "https://www.nasa.gov",
+      "note": "Official identification of thermal blanket"
+    },
+    {
+      "id": "time-1960",
+      "type": "article",
+      "title": "Polar Satellite",
+      "publication": "TIME Magazine",
+      "date": "1960-03-07",
+      "note": "Coverage of 1960 Discoverer debris detection"
+    },
+    {
+      "id": "lunan-1973",
+      "type": "article",
+      "title": "Space Probe From Epsilon Boötis",
+      "authors": ["Duncan Lunan"],
+      "publication": "Spaceflight",
+      "date": "1973-04",
+      "note": "Later retracted interpretation of radio echoes"
+    },
+    {
+      "id": "skeptical-analyses",
+      "type": "debunking",
+      "title": "Various skeptical examinations",
+      "sources": ["Snopes", "NASA statements", "Astronomy publications"],
+      "note": "Comprehensive debunking of Black Knight claims"
+    }
+  ]
+}
